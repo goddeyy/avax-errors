@@ -1,5 +1,8 @@
 # Wallet Simple Contract
 
+Loom Video Continuation cos of time limit:
+https://www.loom.com/share/3a548b26a5a94f0bbc040bc2adce820a?sid=bf0e91d2-1909-4f59-ab49-3b1528fbf824
+
 To illustrate the use of `require()`, `assert()`, and `revert()` statements in a Solidity smart contract, here's a simple example of a smart contract that manages a basic wallet. This wallet will allow deposits, withdrawals, and setting a limit for withdrawals. Each function will demonstrate the use of these statements to handle errors and conditions.
 
 ### Explanation:
